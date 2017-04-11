@@ -12,9 +12,9 @@ html {
 @media(min-width:767px) {
     .navbar {
         padding: 20px 0;
-        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -webkit-transition: background .25s ease-in-out,padding .25s ease-in-out;
+        -moz-transition: background .25s ease-in-out,padding .25s ease-in-out;
+        transition: background .25s ease-in-out,padding .25s ease-in-out;
     }
 
     .top-nav-collapse {
@@ -45,6 +45,7 @@ section {
     background:#fff;
 }
 #con img{
+
     pointer-events: none;
     position:absolute;
     left:0;
@@ -55,6 +56,12 @@ section {
     opacity:0;
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
+ 
+    -webkit-filter: blur(25px);
+  -moz-filter: blur(15px);
+  -o-filter: blur(15px);
+  -ms-filter: blur(15px);
+  filter: blur(15px);
 }
 #con img.opaque {
     opacity:1;
