@@ -27,7 +27,8 @@ var CONTENT = [
                     sampling is in the works.</p>\
                     <p>This work was done under the guidance of <a href = 'http://jpdickerson.com/'>Assistant Prof. John Dickerson</a> and <a href = 'https://www.cs.umd.edu/~srin/'>Prof. Aravind Srinivasan</a>\
                     from the University of Maryland. I got a mention <a href = 'https://www.cs.umd.edu/article/2017/03/professor-aravind-srinivasan-and-assistant-professor-john-dickerson-mentor-award'>here</a>\
-                    for being an ISEF finalist."
+                    for being an <a href = 'https://student.societyforscience.org/intel-isef'>Intel ISEF finalist</a>. This work will be submitted to the <a href = 'http://mucmd.org/'>MUCMD</a> conference\
+                    and the <a href = 'http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143'>American Journal of Transplantation</a>"
     }
 
 ]
