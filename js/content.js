@@ -1,40 +1,37 @@
 var CONTENT = [
     {
-        img: "test.jpg",
-        id: "test1",
-        title: "Test Post",
-        content: "Woot, it works"
+        img: "i1.jpg",
+        id: "p1",
+        title: "Test Post 1",
+        content: "Woot, it instantiates"
     },
     {
-        img: "test.jpg",
+        img: "i2.jpg",
         id: "test",
-        title: "Test Post",
-        content: "Woot, it works"
-    },
-    {
-        img: "test.jpg",
-        id: "test2",
-        title: "Test Post",
-        content: "Woot, it works"
-    },
-    {
-        img: "test.jpg",
-        id: "test3",
-        title: "Test Post",
-        content: "Woot, it works"
+        title: "Test Post 2",
+        content: "And the image change"
     }
 
 ]
-function addContent(img, title, content, id) {
+function addContent(img, title, content, id, start) {
     var post = document.createElement("section");
     post.id = id;
     
     var cont = document.createElement("div");
-    cont.className = "container";
+    cont.className = "container post";
+    cont.dataset.bg = img;
     
+    var im = document.createElement("img");
+    im.id = img;
+    im.src = "img/"+img;
+    if (start)
+        im.className = "opaque";
+
+    document.getElementById("con").appendChild(im);
+
     var row = document.createElement("div");
     row.className = "row";
-    row.dataset.bg = img;
+    
 
     var t1 = document.createElement("div");
     t1.className = "col-lg-12";
@@ -59,6 +56,8 @@ function addContent(img, title, content, id) {
 
 }
 for (var i = 0; i < CONTENT.length; i++) {
+    start = i == 0;
+
     //update navbar
     var ln = document.createElement("li");
 
@@ -71,5 +70,5 @@ for (var i = 0; i < CONTENT.length; i++) {
     document.getElementById('link').appendChild(ln);
 
     //add content
-    addContent(CONTENT[i].img, CONTENT[i].title, CONTENT[i].content, CONTENT[i].id);
+    addContent(CONTENT[i].img, CONTENT[i].title, CONTENT[i].content, CONTENT[i].id, start);
 }
