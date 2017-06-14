@@ -12,7 +12,7 @@ var CONTENT = [
     },
     {
         img: "isef.jpg",
-        id: "test",
+        id: "kidneys",
         title: "Kidneys",
         content: "<p>My <a href = 'http://github.com/ndurvasula/KPDMetric'>current ongoing research project</a> is developing a participant-specific estimate of expected organ quality in a kidney paired donation system.\
                     Essentially, if you are a patient with end-stage renal disease, and wish to enter a kidney paired donation system (a system in which\
@@ -29,6 +29,20 @@ var CONTENT = [
                     from the University of Maryland. I got a mention <a href = 'https://www.cs.umd.edu/article/2017/03/professor-aravind-srinivasan-and-assistant-professor-john-dickerson-mentor-award'>here</a>\
                     for being an <a href = 'https://student.societyforscience.org/intel-isef'>Intel ISEF finalist</a>. This work will be submitted to the <a href = 'http://aaai.org/Conferences/AAAI/aaai18.php'>AAAI 18</a> conference\
                     and the <a href = 'http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143'>American Journal of Transplantation</a>. At ISEF, this project won the <a href = 'http://www.avasc.com/'>AVASC</a> award.</p>"
+    },
+    {
+    	img: "bgb.jpg",
+    	id: "systems",
+    	title: "MBHS Systems",
+    	content: "<p><a href = 'mbhs.systems'>MBHS Systems</a> is a club that I am starting, that aims to bring some entrepreneurial and group based research to Montgomery Blair HS. " +
+		"As a program that claims that it is based around research, <a href = 'https://mbhs.edu/departments/magnet/'>Montgomery Blair HS Magnet</a> really only has the Senior Research Project to show for it. The objective of MBHS systems " +
+		"is to demonstrate how impactful MBHS students can be. The club centers around the idea, design, development, and deployment of a product. The problem to be solved is " +
+		"very technically challenging, spanning several fields in STEM, and MBHS Systems aims to solve and deploy a solution over the couse of a year.</p>" +
+		"<p>This year, MBHS Systems will solve the problem of global pollen modelling using satellite imagery. From satellite imagery of a region, features such as " +
+		"what trees are there, what the terrain is, and what bodies of water are there will be extracted. Using that in conjunction with how current weather systems are " +
+		"behaving in the region allows for the prediction for the concentration of pollen in the area. The concentration will be converted into a readable value for the user. " +
+		"Users can also select what species of trees they are allergic to, and from that, they can get a personalized value. The app will also learn from the subjective input of " +
+		"the user to give the user a personalized value for the metric.</p>"
     }
 
 ]
