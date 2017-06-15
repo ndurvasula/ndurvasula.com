@@ -18,13 +18,6 @@ var CONTENT = [
                     Essentially, if you are a patient with end-stage renal disease, and wish to enter a kidney paired donation system (a system in which\
                     patients paired with incompatible donors trade with other such pairs to receive a kidney), my work aims to tell you what the quality of the kidney you will receive is,\
                     as well as how long it will take for you to receive this kidney. </p>\
-                    <p>To do this, first I Monte Carlo simulated a given patient in a kidney exchange based on published distributions describing demographic data in a steadystate US KPD system, and the codebase \
-                    <a href = 'https://github.com/JohnDickerson/KidneyExchange'>here</a>. By recording the quality of the kidney received, and the waiting time, the expected values of\
-                    these numbers can be computed. Simulating for a sufficient number of trajectories is far too costly, so sampling techniques are necessary to cut down on computation time.</p>\
-                    <p>The sampling method described in section 3 of <a href = 'papers/sampling.pdf'>my paper</a>, with the weighted distance modification in section 6, was implemented and tested.\
-                    The results were pretty bad. Due to the <a href = 'https://en.wikipedia.org/wiki/Curse_of_dimensionality'>curse of dimensionality</a>, there was still an unreasonable amount of\
-                    sampling error when a whopping 10^11 samples were taken. However, trend data indicated that stronger assumptions can be made, and as of now, a Bayesian optimization approach to\
-                    sampling is in the works.</p>\
                     <p>This work was done under the guidance of <a href = 'http://jpdickerson.com/'>Assistant Prof. John Dickerson</a> and <a href = 'https://www.cs.umd.edu/~srin/'>Prof. Aravind Srinivasan</a>\
                     from the University of Maryland. I got a mention <a href = 'https://www.cs.umd.edu/article/2017/03/professor-aravind-srinivasan-and-assistant-professor-john-dickerson-mentor-award'>here</a>\
                     for being an <a href = 'https://student.societyforscience.org/intel-isef'>Intel ISEF finalist</a>. This work will be submitted to the <a href = 'http://aaai.org/Conferences/AAAI/aaai18.php'>AAAI 18</a> conference\
