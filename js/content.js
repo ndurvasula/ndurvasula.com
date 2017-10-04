@@ -3,7 +3,7 @@ var CONTENT = [
         img: "about.jpg",
         id: "about",
         title: "About",
-        content: "Hey there, I'm Naveen. I'm currently a sophomore at Montgomery Blair HS. <br/><br/>\
+        content: "Hey there, I'm Naveen. I'm currently a junior at Montgomery Blair HS. <br/><br/>\
                     Stuff I like:\
                     <br/><ul><li>Research</li><li>Hackathons</li><li>Tennis</li><li>Piano</li></ul>\
                     Stuff I dislike:\
@@ -11,17 +11,32 @@ var CONTENT = [
                     Here's my <a href = 'http://github.com/ndurvasula'>GitHub</a> and <a href = 'resume.pdf'>resume</a>."
     },
     {
+        img: "muff.jpg",
+        id: "muff",
+        title: "Muffins",
+        content: "<p>The muffin problem is a simple problem to understand, and fun to solve too.</p>" +
+        		"<p>We are given <i>m</i> muffins and <i>s</i> students, and everyone wants " +
+        		"<i>m/s</i> muffins. Take, for example, 5 muffins (1-5) and 3 students (A, B, C). As everyone needs " +
+        		"5/3 of a muffin, a possible protocol could be each person 1 muffin, and then take the two remaining " +
+        		"muffins and split them into 1/3 and 2/3. We can give A and B each a 2/3 sized piece, and give the remaining " +
+        		"2 1/3 sized pieces to C. However, this makes C mad, as C gets a small piece. What protocol provably maximizes " +
+        		"the size of the smallest piece? More generally, what is the size of the smallest piece for all <i>m</i> and <i>s</i>?" +
+        		"</p><p>The full paper is on <a href = 'https://arxiv.org/abs/1709.02452'>arXiv</a>. " +
+        		"This work was submitted to <a href = 'http://itcs-conf.org/'>ITCS</a> (waiting for decision), and accepted to the " +
+        		"<a href = 'http://jointmathematicsmeetings.org/jmm'>Joint Mathematics Meeting of the AMS and MAA</a>."
+    },
+    {
         img: "isef.jpg",
         id: "kidneys",
-        title: "Kidneys",
-        content: "<p>My <a href = 'http://github.com/ndurvasula/KPDMetric'>current ongoing research project</a> is developing a participant-specific estimate of expected organ quality in a kidney paired donation system.\
+        title: "Kidney Quality Metric",
+        content: "<p>I <a href = 'http://github.com/ndurvasula/KPDMetric'></a> developed a participant-specific estimate of expected organ quality in a kidney paired donation system.\
                     Essentially, if you are a patient with end-stage renal disease, and wish to enter a kidney paired donation system (a system in which\
                     patients paired with incompatible donors trade with other such pairs to receive a kidney), my work aims to tell you what the quality of the kidney you will receive is,\
                     as well as how long it will take for you to receive this kidney. </p>\
                     <p>This work was done under the guidance of <a href = 'http://jpdickerson.com/'>Assistant Prof. John Dickerson</a> and <a href = 'https://www.cs.umd.edu/~srin/'>Prof. Aravind Srinivasan</a>\
                     from the University of Maryland. I got a mention <a href = 'https://www.cs.umd.edu/article/2017/03/professor-aravind-srinivasan-and-assistant-professor-john-dickerson-mentor-award'>here</a>\
-                    for being an <a href = 'https://student.societyforscience.org/intel-isef'>Intel ISEF finalist</a>. This work will be submitted to the <a href = 'http://aaai.org/Conferences/AAAI/aaai18.php'>AAAI 18</a> conference\
-                    and the <a href = 'http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143'>American Journal of Transplantation</a>. At ISEF, this project won the <a href = 'http://www.avasc.com/'>AVASC</a> award.</p>"
+                    for being an <a href = 'https://student.societyforscience.org/intel-isef'>Intel ISEF finalist</a>. This work was submitted to the <a href = 'http://aaai.org/Conferences/AAAI/aaai18.php'>AAAI 18</a> conference\
+                    (waiting for decision), and will be submitted to the <a href = 'http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143'>American Journal of Transplantation</a>. At ISEF, this project won the <a href = 'http://www.avasc.com/'>AVASC</a> award.</p>"
     },
     {
     	img: "bgb.jpg",
