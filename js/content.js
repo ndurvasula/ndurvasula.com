@@ -3,12 +3,21 @@ var CONTENT = [
         img: "about.jpg",
         id: "about",
         title: "About",
-        content: "Hey there, I'm Naveen. I'm currently a junior at Montgomery Blair HS. <br/><br/>\
+        content: "Hey there, I'm Naveen. I'm currently a junior at <a href = 'https://mbhs.edu'>Montgomery Blair HS</a>.<br/><br/>\
                     Stuff I like:\
                     <br/><ul><li>Research</li><li>Hackathons</li><li>Tennis</li><li>Piano</li></ul>\
                     Stuff I dislike:\
                     <br/><ul><li>Game controllers with convex sticks (why?)</li><li>Apple products</li><li>Shoe laces</li></ul>\
-                    Here's my <a href = 'http://github.com/ndurvasula'>GitHub</a> and <a href = 'resume.pdf'>resume</a>."
+                    Here's my <a href = 'http://github.com/ndurvasula'>GitHub</a>, <a href = 'https://devpost.com/CodeIntegrity'>Devpost</a>, and <a href = 'resume.pdf'>resume</a>."
+    },
+    {
+        img: "mlh.jpg",
+        id: "hacks",
+        title: "Hacks",
+        content: "Here's a running list of hackathon projects:" +
+        		"<ul><li><a href = 'https://devpost.com/software/cadvr'>CADVR</a> - a VR CAD viewer - HackUMBC Spring 2016 - Winner -  Best Tool for Developers </li>" +
+        		"<li><a href = 'https://devpost.com/software/vrmc'>IMUCAP</a> - an affordable VR motion capture system for gaming - HackUMBC Fall 2016 - Winner - Most Innovative Game</li>" +
+        		"<li><a href = 'https://devpost.com/software/fridgesight'>FridgeSight</a> - converts any fridge into an affordable smart fridge - PennApps XVI - Winner - Hasura Special Prize</li></ul>"
     },
     {
         img: "muff.jpg",
@@ -22,7 +31,7 @@ var CONTENT = [
         		"2 1/3 sized pieces to C. However, this makes C mad, as C gets a small piece. What protocol provably maximizes " +
         		"the size of the smallest piece? More generally, what is the size of the smallest piece for all <i>m</i> and <i>s</i>?" +
         		"</p><p>The full paper is on <a href = 'https://arxiv.org/abs/1709.02452'>arXiv</a>. " +
-        		"This work was submitted to <a href = 'http://itcs-conf.org/'>ITCS</a> (waiting for decision), and accepted to the " +
+        		"This work was submitted to <a href = 'http://itcs-conf.org/'>ITCS</a> (waiting for decision), and was an invited presentation at the" +
         		"<a href = 'http://jointmathematicsmeetings.org/jmm'>Joint Mathematics Meeting of the AMS and MAA</a>."
     },
     {
