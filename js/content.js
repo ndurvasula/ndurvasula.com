@@ -7,7 +7,7 @@ var CONTENT = [
                     Stuff I like:\
                     <br/><ul><li>Research</li><li>Hackathons</li><li>Tennis</li><li>Piano</li></ul>\
                     Stuff I dislike:\
-                    <br/><ul><li>Game controllers with convex sticks (why?)</li><li>Apple products</li><li>Shoe laces</li></ul>\
+                    <br/><ul><li>Game controllers with convex sticks (why?)</li><li>Apple products</li><li>Shoelaces</li></ul>\
                     Here's my <a href = 'http://github.com/ndurvasula'>GitHub</a>, <a href = 'https://devpost.com/CodeIntegrity'>Devpost</a>, and <a href = 'resume.pdf'>resume</a>."
     },
     {
@@ -31,7 +31,7 @@ var CONTENT = [
         		"2 1/3 sized pieces to C. However, this makes C mad, as C gets a small piece. What protocol provably maximizes " +
         		"the size of the smallest piece? More generally, what is the size of the smallest piece for all <i>m</i> and <i>s</i>?" +
         		"</p><p>The full paper is on <a href = 'https://arxiv.org/abs/1709.02452'>arXiv</a>. " +
-        		"This work was submitted to <a href = 'http://itcs-conf.org/'>ITCS</a> (waiting for decision), and was an invited presentation at the" +
+        		"This work was submitted to <a href = 'http://itcs-conf.org/'>ITCS</a> (waiting for decision), and was an invited presentation at the " +
         		"<a href = 'http://jointmathematicsmeetings.org/jmm'>Joint Mathematics Meeting of the AMS and MAA</a>."
     },
     {
@@ -51,7 +51,7 @@ var CONTENT = [
     	img: "bgb.jpg",
     	id: "systems",
     	title: "MBHS Systems",
-    	content: "<p><a href = 'mbhs.systems'>MBHS Systems</a> is a club that I am starting, that aims to bring some entrepreneurial and group based research to Montgomery Blair HS. " +
+    	content: "<p><a href = 'http://mbhs.systems'>MBHS Systems</a> is a club that I am starting, that aims to bring some entrepreneurial and group based research to Montgomery Blair HS. " +
 		"As a program that claims that it is based around research, <a href = 'https://mbhs.edu/departments/magnet/'>Montgomery Blair HS Magnet</a> really only has the Senior Research Project to show for it. The objective of MBHS systems " +
 		"is to demonstrate how impactful MBHS students can be. The club centers around the idea, design, development, and deployment of a product. The problem to be solved is " +
 		"very technically challenging, spanning several fields in STEM, and MBHS Systems aims to solve and deploy a solution over the couse of a year.</p>" +
