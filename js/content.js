@@ -8,7 +8,7 @@ var CONTENT = [
                     <br/><ul><li>Research</li><li>Hackathons</li><li>Tennis</li><li>Piano</li></ul>\
                     Stuff I dislike:\
                     <br/><ul><li>Game controllers with convex sticks (why?)</li><li>Apple products</li><li>Shoelaces</li></ul>\
-                    Here's my <a href = 'http://github.com/ndurvasula'>GitHub</a>, <a href = 'https://devpost.com/CodeIntegrity'>Devpost</a>, and <a href = 'resume.pdf'>resume</a>."
+                    Here's my <a href = 'http://github.com/ndurvasula'>GitHub</a>, <a href = 'https://devpost.com/CodeIntegrity'>Devpost</a>, and <a href = 'cv.pdf'>CV</a>."
     },
     {
         img: "mlh.jpg",
