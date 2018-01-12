@@ -31,8 +31,9 @@ var CONTENT = [
         		"2 1/3 sized pieces to C. However, this makes C mad, as C gets a small piece. What protocol provably maximizes " +
         		"the size of the smallest piece? More generally, what is the size of the smallest piece for all <i>m</i> and <i>s</i>?" +
         		"</p><p>The full paper is on <a href = 'https://arxiv.org/abs/1709.02452'>arXiv</a>. " +
-        		"This work was submitted to <a href = 'http://itcs-conf.org/'>ITCS</a> (waiting for decision), and was an invited presentation at the " +
-        		"<a href = 'http://jointmathematicsmeetings.org/jmm'>Joint Mathematics Meeting of the AMS and MAA</a>."
+        		"This work is an invited presentation at the " +
+        		"<a href = 'http://jointmathematicsmeetings.org/jmm'>Joint Mathematics Meeting of the AMS and MAA</a>. and will be submitted to " +
+                        "<a href = 'https://sites.google.com/view/fun2018/'>FUN 2018</a>"
     },
     {
         img: "isef.jpg",
@@ -44,8 +45,10 @@ var CONTENT = [
                     as well as how long it will take for you to receive this kidney. </p>\
                     <p>This work was done under the guidance of <a href = 'http://jpdickerson.com/'>Assistant Prof. John Dickerson</a> and <a href = 'https://www.cs.umd.edu/~srin/'>Prof. Aravind Srinivasan</a>\
                     from the University of Maryland. I got a mention <a href = 'https://www.cs.umd.edu/article/2017/03/professor-aravind-srinivasan-and-assistant-professor-john-dickerson-mentor-award'>here</a>\
-                    for being an <a href = 'https://student.societyforscience.org/intel-isef'>Intel ISEF finalist</a>. This work was submitted to the <a href = 'http://aaai.org/Conferences/AAAI/aaai18.php'>AAAI 18</a> conference\
-                    (waiting for decision), and will be submitted to the <a href = 'http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143'>American Journal of Transplantation</a>. At ISEF, this project won the <a href = 'http://www.avasc.com/'>AVASC</a> award.</p>"
+                    for being an <a href = 'https://student.societyforscience.org/intel-isef'>Intel ISEF finalist</a>. The simulator that I made as part of this project was used in <a href = 'https://users.cs.duke.edu/~conitzer/kidneyAAAI18.pdf'>this</a> paper \
+                    which was accepted the <a href = 'http://aaai.org/Conferences/AAAI/aaai18.php'>AAAI 18</a> conference. This work \
+                    will be submitted to the <a href = 'https://www.ijcai-18.org/'>IJCAI</a> conference and the <a href = 'http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143'>American Journal of Transplantation</a>. \
+                    At ISEF, this project won the <a href = 'http://www.avasc.com/'>AVASC</a> award.</p>"
     },
     {
     	img: "bgb.jpg",
