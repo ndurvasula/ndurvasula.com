@@ -47,7 +47,7 @@ var CONTENT = [
                     from the University of Maryland. I got a mention <a href = 'https://www.cs.umd.edu/article/2017/03/professor-aravind-srinivasan-and-assistant-professor-john-dickerson-mentor-award'>here</a>\
                     for being an <a href = 'https://student.societyforscience.org/intel-isef'>Intel ISEF finalist</a>. The simulator that I made as part of this project was used in <a href = 'https://users.cs.duke.edu/~conitzer/kidneyAAAI18.pdf'>this</a> paper \
                     which was accepted the <a href = 'http://aaai.org/Conferences/AAAI/aaai18.php'>AAAI 18</a> conference. This work \
-                    will be submitted to the <a href = 'https://www.ijcai-18.org/'>IJCAI</a> conference and the <a href = 'http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143'>American Journal of Transplantation</a>. \
+                    will be submitted to the <a href = 'http://auai.org/uai2018/index.php'>UAI</a> conference, and eventually the <a href = 'http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-6143'>American Journal of Transplantation</a>. \
                     At ISEF, this project won the <a href = 'http://www.avasc.com/'>AVASC</a> award.</p>"
     },
     {
