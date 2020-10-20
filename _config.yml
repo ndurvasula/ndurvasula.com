@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Naveen Durvasula"
 title_separator          : "-"
 name                     : &name "Naveen Durvasula"
-description              : &description "Sophomore at UC Berkeley M.E.T"
+description              : &description "UC Berkeley M.E.T '23"
 url                      : http://ndurvasula.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ndurvasula/ndurvasula.com"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Naveen Durvasula"
   avatar           : "profile.jpg"
-  bio              : "Freshman at UC Berkeley M.E.T."
+  bio              : "UC Berkeley M.E.T '23"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
