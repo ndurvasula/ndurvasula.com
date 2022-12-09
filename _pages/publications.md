@@ -26,7 +26,7 @@ Smolyak, Sung Hyun Yoo (𝛼 − 𝛽).
 
 **[Recommending with Recommendations](https://arxiv.org/abs/2112.00979).**<br/>_Preprint._ <br/> Naveen Durvasula*, Franklyn Wang*, and Scott Duke Kominers.
 
-**Utility-Based Communication Requirements for Stable Matching in Large Markets.**<br/>_Preprint._ <br/> Naveen Durvasula and Scott Duke Kominers.
+**[Utility-Based Communication Requirements for Stable Matching in Large Markets](http://arxiv.org/abs/2212.04024).**<br/>_Preprint._ <br/> Naveen Durvasula.
 
 **Extending Universal Approximation Guarantees.** <br/> _Preprint._ <br/> Naveen Durvasula.
 
