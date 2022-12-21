@@ -38,7 +38,7 @@ Smolyak, Sung Hyun Yoo (𝛼 − 𝛽). _This work was also adapted into a book,
 
 **[Geodesically Convex Optimization](http://ndurvasula.com/files/gconvex.pdf).** <br/> A survey paper on geodesically convex optimization, and some applications to operator scaling (co-written with Haydn Gwyn and Frederic Wang).
 
-**[Astronomy and Interpretability](http://ndurvasula.com/files/astro.pdf).** <br/> A demonstration of how simple learning models can infer laws of physics (co-written with Haydn Gwyn, Frederic Wang, and Sarthak Arora).
+**[Astronomy and Interpretability](http://ndurvasula.com/files/astro.pdf).** <br/> A demonstration of how simple learning models can infer laws of physics (co-written with Haydn Gwyn, Frederic Wang, Oskar Hurst, and Sarthak Arora).
 
 **[Differential Geometry and Tensor Calculus](http://ndurvasula.com/files/diffgeo.pdf).** <br/> A mini-textbook I wrote that introduces basic concepts in differential geometry and exterior calculus. 
 
