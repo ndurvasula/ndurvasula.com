@@ -34,6 +34,12 @@ Smolyak, Sung Hyun Yoo (𝛼 − 𝛽). _This work was also adapted into a book,
 
 **[Consumer Data Marketplaces](http://ndurvasula.com/files/datamkt.pdf).** <br/> This paper introduces a mechanism that could be used to allow data buyers to directly purchase information from sellers in a way that satisfies five desirable properties. 
 
+**[Algebraic Combinatorics Notes](http://ndurvasula.com/files/algcombo.pdf).** <br/> Course notes from Math 249 at UC Berkeley (co-written with Haydn Gwyn).
+
+**[Geodesically Convex Optimization](http://ndurvasula.com/files/gconvex.pdf).** <br/> A survey paper on geodesically convex optimization, and some applications to operator scaling (co-written with Haydn Gwyn and Frederic Wang).
+
+**[Astronomy and Interpretability](http://ndurvasula.com/files/astro.pdf).** <br/> A demonstration of how simple learning models can infer laws of physics (co-written with Haydn Gwyn, Frederic Wang, and Sarthak Arora).
+
 **[Differential Geometry and Tensor Calculus](http://ndurvasula.com/files/diffgeo.pdf).** <br/> A mini-textbook I wrote that introduces basic concepts in differential geometry and exterior calculus. 
 
 
