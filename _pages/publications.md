@@ -30,4 +30,10 @@ Smolyak, Sung Hyun Yoo (𝛼 − 𝛽). _This work was also adapted into a book,
 
 **[Extending Universal Approximation Guarantees](http://arxiv.org/abs/2212.07934).** <br/> _Preprint._ <br/> Naveen Durvasula.
 
+## Other Writing
+
+**[Consumer Data Marketplaces](http://ndurvasula.com/files/datamkt.pdf).** <br/> This paper introduces a mechanism that could be used to allow data buyers to directly purchase information from sellers in a way that satisfies five desirable properties. 
+
+**[Differential Geometry and Tensor Calculus](http://ndurvasula.com/files/diffgeo.pdf).** <br/> A mini-textbook I wrote that introduces basic concepts in differential geometry and exterior calculus. 
+
 
