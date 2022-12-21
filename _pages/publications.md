@@ -20,7 +20,7 @@ author_profile: true
 **[Forecasting Patient Outcomes in Kidney Exchange](https://www.cs.umd.edu/~srin/PDF/2022/2022-ijcai-kidney-exchange-longer.pdf).**<br/>_Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence._ <br/> Naveen Durvasula, Aravind Srinivasan, and John Dickerson.
 
 **[A Muffin-Theorem Generator](https://drops.dagstuhl.de/opus/volltexte/2018/8806/pdf/LIPIcs-FUN-2018-15.pdf).**<br/>_Proceedings of the Ninth International Conference on Fun with Algorithms._ <br/> Guangiqi Cui, John Dickerson, Naveen Durvasula, William Gasarch, Erik Metz, Jacob Prinz, Naveen Raman, Daniel
-Smolyak, Sung Hyun Yoo (𝛼 − 𝛽). This work was also adapted into a book, which you can find [here](https://www.worldscientific.com/worldscibooks/10.1142/11689#t=aboutBook)!
+Smolyak, Sung Hyun Yoo (𝛼 − 𝛽). _This work was also adapted into a book, which you can find [here](https://www.worldscientific.com/worldscibooks/10.1142/11689#t=aboutBook)!_
 
 ## Preprints
 
