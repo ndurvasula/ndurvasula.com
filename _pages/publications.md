@@ -20,14 +20,14 @@ author_profile: true
 **[Forecasting Patient Outcomes in Kidney Exchange](https://www.cs.umd.edu/~srin/PDF/2022/2022-ijcai-kidney-exchange-longer.pdf).**<br/>_Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence._ <br/> Naveen Durvasula, Aravind Srinivasan, and John Dickerson.
 
 **[A Muffin-Theorem Generator](https://drops.dagstuhl.de/opus/volltexte/2018/8806/pdf/LIPIcs-FUN-2018-15.pdf).**<br/>_Proceedings of the Ninth International Conference on Fun with Algorithms._ <br/> Guangiqi Cui, John Dickerson, Naveen Durvasula, William Gasarch, Erik Metz, Jacob Prinz, Naveen Raman, Daniel
-Smolyak, Sung Hyun Yoo (𝛼 − 𝛽).
+Smolyak, Sung Hyun Yoo (𝛼 − 𝛽). This work was also adapted into a book, which you can find [here](https://www.worldscientific.com/worldscibooks/10.1142/11689#t=aboutBook)!
 
 ## Preprints
 
-**[Recommending with Recommendations](https://arxiv.org/abs/2112.00979).**<br/>_Preprint._ <br/> Naveen Durvasula*, Franklyn Wang*, and Scott Duke Kominers.
+**[Recommending with Recommendations](https://arxiv.org/abs/2112.00979).**<br/>_Preprint._ <br/> Naveen Durvasula\*, Franklyn Wang\*, and Scott Duke Kominers.
 
 **[Utility-Based Communication Requirements for Stable Matching in Large Markets](http://arxiv.org/abs/2212.04024).**<br/>_Preprint._ <br/> Naveen Durvasula.
 
-**Extending Universal Approximation Guarantees.** <br/> _Preprint._ <br/> Naveen Durvasula.
+**[Extending Universal Approximation Guarantees](http://arxiv.org/abs/2212.07934).** <br/> _Preprint._ <br/> Naveen Durvasula.
 
 
