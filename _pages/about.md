@@ -14,6 +14,8 @@ I am very fortunate to have been advised by [Aravind Srinivasan](http://www.cs.u
 
 Some of my other interests include moving around (e.g. climbing, running, hiking, swimming, etc.) and food (e.g. cooking, bread-making, cool produce, etc.).
 
+Feel free to reach out at ndurvasula [at] berkeley [dot] edu.
+
 
 
 
