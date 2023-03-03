@@ -7,15 +7,15 @@ author_profile: true
 
 ## Working Papers
 
-**Learning Competitively Monotone Auctions Online.**<br/>_Working paper._<br/> Naveen Durvasula, Manolis Zampetakis, and Nika Haghtalab.
+**Smoothed Analysis of Online Non-parametric Auctions.**<br/>_Manuscript under submission to EC'23._<br/> Naveen Durvasula, Manolis Zampetakis, and Nika Haghtalab.
 
 **Calibrating your Expectations.**<br/>_Working paper._<br/> Kweku Kwegyir-Aggrey and Naveen Durvasula.
 
 **Greedy Policies in Selection Problems.**<br/>_Working paper._ <br/> Naveen Durvasula
 
-**[Stochastic Minimum Vertex Cover in General Graphs: a 3/2-approximation](https://people.eecs.berkeley.edu/~nika/pubs/stochasticVC.pdf).**<br/>_Manuscript under submission to STOC 2023._ <br/> Mahsa Derakshan, Naveen Durvasula, and Nika Haghtalab
-
 ## Publications
+
+**[Stochastic Minimum Vertex Cover in General Graphs: a 3/2-approximation](https://people.eecs.berkeley.edu/~nika/pubs/stochasticVC.pdf).**<br/>_Proceedings of the Fifty-Fifth Annual ACM Symposium on Theory of Computing._ <br/> Mahsa Derakshan, Naveen Durvasula, and Nika Haghtalab
 
 **[Forecasting Patient Outcomes in Kidney Exchange](https://www.cs.umd.edu/~srin/PDF/2022/2022-ijcai-kidney-exchange-longer.pdf).**<br/>_Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence._ <br/> Naveen Durvasula, Aravind Srinivasan, and John Dickerson.
 
