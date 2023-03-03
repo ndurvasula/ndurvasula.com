@@ -12,7 +12,7 @@ I'm an undergraduate at the University of California, Berkeley. My research inte
 
 I am very fortunate to have been advised by [Aravind Srinivasan](http://www.cs.umd.edu/~srin/), [John Dickerson](http://jpdickerson.com/), [William Gasarch](https://www.cs.umd.edu/users/gasarch/), [Scott Duke Kominers](http://scottkom.com/), and [Nika Haghtalab](https://people.eecs.berkeley.edu/~nika/). 
 
-Some of my other interests include moving around (e.g. climbing, running, hiking, swimming, etc.) and food (e.g. cooking, bread-making, cool produce, etc.).
+Some of my other interests include moving around (e.g. climbing, running, hiking, swimming, etc.) and food (e.g. cooking, bread-making, cool produce, etc.). Also check out [OpenKPD](https://openkpd.org), an open-source platform for kidney exchange simulation that I developed and currently maintain.
 
 Feel free to reach out at ndurvasula [at] berkeley [dot] edu.
 
