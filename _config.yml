@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Naveen Durvasula"
 title_separator          : "-"
 name                     : &name "Naveen Durvasula"
-description              : &description "UC Berkeley M.E.T '23"
+description              : &description "Columbia University"
 url                      : https://ndurvasula.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ndurvasula/ndurvasula.com"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Naveen Durvasula"
   avatar           : "profile.jpg"
-  bio              : "UC Berkeley M.E.T '23"
-  location         : "Berkeley, CA"
+  bio              : "Columbia University"
+  location         : "New York, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=JynYMRTQPDIC&hl=en&oi=ao
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "naveen-durvasula"
+  linkedin         : #"naveen-durvasula"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : n_durvasula
   vine             :
   weibo            :
   xing             :

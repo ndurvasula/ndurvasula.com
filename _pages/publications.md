@@ -5,17 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Working Papers
+## Works-in-Progress
 
-**Smoothed Analysis of Online Non-parametric Auctions.**<br/>_Manuscript under submission to EC'23._<br/> Naveen Durvasula, Manolis Zampetakis, and Nika Haghtalab.
+**How Secure is Your Restaking Network?**<br/>_Working Paper._<br/> Naveen Durvasula and Tim Roughgarden.
 
-**Calibrating your Expectations.**<br/>_Working paper._<br/> Kweku Kwegyir-Aggrey and Naveen Durvasula.
-
-**Greedy Policies in Selection Problems.**<br/>_Working paper._ <br/> Naveen Durvasula
+**Beyond Multi-Dimensional Fee Markets**<br/>_Working Paper._<br/> Naveen Durvasula\* and Maryam Bahrani\*.
 
 ## Publications
 
-**[Stochastic Minimum Vertex Cover in General Graphs: a 3/2-approximation](https://people.eecs.berkeley.edu/~nika/pubs/stochasticVC.pdf).**<br/>_Proceedings of the Fifty-Fifth Annual ACM Symposium on Theory of Computing._ <br/> Mahsa Derakshan, Naveen Durvasula, and Nika Haghtalab
+**Observing Context Improves Disparity Estimation when Race is Unobserved.**<br/>_Manuscript forthcoming, accepted to AIES '24._<br/> Kweku Kwegyir-Aggrey, Naveen Durvasula, Jennifer Wang, and Suresh Venkatasubramanian.
+
+**[Smoothed Analysis of Online Non-parametric Auctions](https://dl.acm.org/doi/10.1145/3580507.3597787).**<br/>_Proceedings of the 24th ACM Conference on Economics and Computation._<br/> Naveen Durvasula, Manolis Zampetakis, and Nika Haghtalab.
+
+**[Stochastic Minimum Vertex Cover in General Graphs: a 3/2-approximation](https://dl.acm.org/doi/abs/10.1145/3564246.3585230).**<br/>_Proceedings of the Fifty-Fifth Annual ACM Symposium on Theory of Computing._ <br/> Mahsa Derakshan, Naveen Durvasula, and Nika Haghtalab.
 
 **[Forecasting Patient Outcomes in Kidney Exchange](https://www.cs.umd.edu/~srin/PDF/2022/2022-ijcai-kidney-exchange-longer.pdf).**<br/>_Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence._ <br/> Naveen Durvasula, Aravind Srinivasan, and John Dickerson.
 

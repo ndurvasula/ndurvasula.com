@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Beyond Multi-Dimensional Fee Markets**<br/>Presented at the Workshop on Blockchains and Decentralized Finance at EC '24.<br/> Naveen Durvasula\* and Maryam Bahrani\*.
+
+**[Smoothed Analysis of Online Non-parametric Auctions](https://www.youtube.com/watch?v=EdT_wJQH8GY).**<br/>Presented at EC '23.<br/> Naveen Durvasula, Manolis Zampetakis, and Nika Haghtalab.
+
+**[Stochastic Minimum Vertex Cover in General Graphs: a 3/2-approximation](https://www.youtube.com/watch?v=i2p2MN6e__c).**<br/>Presented at STOC '23. <br/> Mahsa Derakshan, Naveen Durvasula, and Nika Haghtalab.
+
 **[Characterizing Anomalies with Explainable Classifiers](https://openreview.net/pdf?id=P_ImdNqo7S).**<br/>Presented at the DistShift and DMML Workshops at NeurIPS ’22.<br/> Naveen Durvasula, Valentine d'Hauteville, Keegan Hines, John Dickerson.
 
 **[Forecasting Patient Outcomes in Kidney Exchange](https://www.ijcai.org/proceedings/2022/701).**<br/>Presented at the Special Track on AI for Social Good at IJCAI ’22.<br/> Naveen Durvasula, Aravind Srinivasan, and John Dickerson.
